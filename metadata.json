@@ -1,0 +1,6 @@
+{
+  "name": "Alien Hunter: Reality Invasion",
+  "description": "3D Augmented Reality Sci-Fi mobile shooter where alien invaders spawn in your real-world surroundings. Aim with your phone, eliminate alien swarms, and upgrade futuristic weapons.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
